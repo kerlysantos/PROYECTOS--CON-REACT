@@ -13,7 +13,7 @@ function App() {
       imagen='shawn' 
       cargo='Software Engineer'
       empresa='Amazon'
-      testimonio='Da miedo cambiar de carrera. Solo gané la confianza de que podía programar trabajando en los cientos de horas de lecciones gratuitas en freeCodeCamp. En un año tenía un trabajo de seis cifras como ingeniero de software. WiloApp cambió mi vida'
+      testimonio='Da miedo cambiar de carrera. Solo gané la confianza de que podía programar trabajando en los cientos de horas de lecciones gratuitas en WiloApp. En un año tenía un trabajo de seis cifras como ingeniero de software. WiloApp cambió mi vida'
                  />
       <Testimonio
       nombre='Sara Chima'
